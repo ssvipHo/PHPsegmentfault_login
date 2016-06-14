@@ -1,0 +1,2 @@
+# PHPsegmentfault_login
+使用PHPcurl模拟登陆segmentfault
